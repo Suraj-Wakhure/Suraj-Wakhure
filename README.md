@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:00FF41&height=210&section=header&text=SURAJ%20WAKHURE&fontSize=50&fontColor=00FF41&fontAlignY=35&desc=root%40coep%3A~%23%20building_things_that_work&descAlignY=58&descSize=16&descColor=39FF14&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/Suraj-Wakhure/Suraj-Wakhure/main/assets/hero_banner.svg" width="100%" alt="Suraj Wakhure" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=%24+whoami;Computer+Science+Engineering+Student+%40+COEP;%24+cat+currently_building.txt;Quiz+App+%40+SDS+%7C+Inspiron+5.0+%40+CSI;%24+./run_hackathon.sh+--mode%3Dsurvive" alt="Typing SVG" />
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/suraj-wakhure-864997262/)
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:surajwakhure@gmail.com)
@@ -15,9 +13,7 @@
 
 <br/>
 
-```bash
-suraj@coep:~$ whoami
-```
+## `$ whoami`
 
 ```yaml
 name:           Suraj Wakhure
@@ -43,40 +39,38 @@ mindset:        "Understanding > rushing to code"
 
 ## `$ ls -la ./tech_stack/`
 
-<div align="center">
-
-**core_languages/**
+<table>
+<tr><td><b>core_languages/</b></td><td>
 
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js)
 
-**app_and_web/**
+</td></tr>
+<tr><td><b>app_and_web/</b></td><td>
 
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
-**databases_and_tools/**
+</td></tr>
+<tr><td><b>databases_and_tools/</b></td><td>
 
 ![Firebase](https://skillicons.dev/icons?i=firebase) ![Oracle](https://skillicons.dev/icons?i=oracle) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-**apis_and_services/**
+</td></tr>
+<tr><td><b>apis_and_services/</b></td><td>
 
 ![Gemini](https://img.shields.io/badge/Gemini%20AI-000000?style=flat-square&logo=googlegemini&logoColor=39FF14) ![Twilio](https://img.shields.io/badge/Twilio-000000?style=flat-square&logo=twilio&logoColor=39FF14) ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-000000?style=flat-square&logo=openstreetmap&logoColor=39FF14)
 
-</div>
+</td></tr>
+</table>
 
 <br/>
 
 ## `$ cat skill_levels.dat`
 
-```
-Android Development     ████████████████░░░░  80%
-Full Stack (React/Node) ██████████████░░░░░░  70%
-Java / OOP Fundamentals  ██████████████████░░  90%
-Python                  ███████████████░░░░░  75%
-Firebase / Realtime DB  █████████████████░░░  85%
-Git / Version Control   ████████████████░░░░  80%
-Problem Solving (DSA)   ██████████████░░░░░░  70%
-```
-<sub>Self-assessed, grounded in coursework + project history. Always compiling.</sub>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Suraj-Wakhure/Suraj-Wakhure/main/assets/skill_levels.svg" width="100%" alt="Skill levels" />
+
+</div>
 
 <br/>
 
