@@ -1,196 +1,283 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Suraj%20Wakhure&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Android%20%7C%20Full%20Stack%20%7C%20Building%20for%20Real%20Problems&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B35,50:F7931E,100:FFC93C&height=220&section=header&text=SURAJ%20WAKHURE&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Android%20Developer%20%C2%B7%20Full%20Stack%20Engineer%20%C2%B7%20Builder&descAlignY=55&descSize=19&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+COEP;Android+%26+Full+Stack+Developer;Hackathon+Builder+%7C+SOS%2FEdTech%2FFinTech;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FF8C42&center=true&vCenter=true&width=720&lines=Second-Year+CSE+%40+COEP+Technological+University;Shipping+Android+%26+Full+Stack+Products;SOS+Systems+%C2%B7+EdTech+%C2%B7+FinTech+%C2%B7+Geospatial+Tech;Currently%3A+Software+Developer+%40+SDS+%7C+Tech+Coordinator+%40+CSI" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-wakhure-864997262/)
+[![Gmail](https://img.shields.io/badge/Email-F7931E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajwakhure@gmail.com)
+[![CGPA](https://img.shields.io/badge/CGPA-8.81%2F10-2b2d42?style=for-the-badge)](https://github.com/Suraj-Wakhure)
+[![Diploma](https://img.shields.io/badge/Diploma-97.18%25-2b2d42?style=for-the-badge)](https://github.com/Suraj-Wakhure)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-wakhure-864997262/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajwakhure@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917972408401)
-[![CGPA](https://img.shields.io/badge/CGPA-8.81%2F10-brightgreen?style=for-the-badge)](https://github.com/Suraj-Wakhure)
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:FFC93C&height=3&width=900" />
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+## 🧭 The Short Version
 
-I'm a second-year **Computer Science & Engineering** student at **COEP Technological University, Pune**, building my way through Android development, full-stack web apps, and hackathon-born products that try to solve problems that actually matter — from emergency response to personalized learning.
+```
+const suraj = {
+  role: "Second-Year CSE Student @ COEP Technological University, Pune",
+  background: "Diploma in Computer Engineering (97.18%) → Lateral Entry → B.Tech",
+  currentlyBuilding: ["Quiz Application @ SDS", "Inspiron 5.0 website @ CSI"],
+  stack: ["Java", "Python", "JavaScript", "Android", "React.js", "Node.js", "Firebase"],
+  shipped: ["Emergency SOS systems", "AI learning platforms", "FinTech engines"],
+  philosophy: "Understanding > rushing to code",
+};
+```
 
-- 🎓 B.Tech CSE @ COEP Technological University (CGPA: **8.81/10**) — came in via Diploma in Computer Engineering, graduated at **97.18%**
-- 🛠️ **Software Developer** at COEP's Software Development Section (SDS), currently building a Quiz Application
-- 🌐 **Technical Coordinator** at Computer Society of India (CSI) — COEP Tech Student Chapter, building the official Inspiron 5.0 hackathon website
-- 🥉 **2nd Runner-Up** — HERE Technologies Geospatial Student Hackathon 2026, Mumbai
-- 📱 Built an Android & full-stack track record across SOS systems, EdTech platforms, and FinTech reconciliation engines
-- 🤝 Active in COEP's Free Software Users Group (CoFSUG) and the broader hackathon circuit — TechSprint, InnoHack, Call2Code, SIH 2025
+<br/>
 
----
+## 🛤️ My Journey So Far
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="120" align="center"><b>2022–25</b></td>
+<td>
+🎓 <b>Diploma in Computer Engineering</b> — Government Polytechnic, Chh. Sambhajinagar<br/>
+Graduated at <b>97.18%</b> · Technical Member, ASCE & AIDIAS Committee · Govt. Certified in Computer Typing (GCC-TBC-30/40)
+</td>
+</tr>
+<tr>
+<td align="center"><b>Jun 2024</b></td>
+<td>
+📱 <b>Android Development Intern</b> — Ekatta Innovators LLP<br/>
+Built apps from scratch (online shopping system, music player, real-time DB integration), shipped daily APKs for structured review
+</td>
+</tr>
+<tr>
+<td align="center"><b>2025</b></td>
+<td>
+🚀 <b>Entered COEP Technological University</b> via lateral entry into B.Tech CSE — currently holding a <b>8.81 CGPA</b><br/>
+Built <b>ResQLink</b>, <b>MedhaAI</b>, and <b>BharatSync</b> across hackathons this year
+</td>
+</tr>
+<tr>
+<td align="center"><b>Nov 2025</b></td>
+<td>
+💻 Selected as <b>Software Developer</b> at COEP's Software Development Section (SDS) after a 3-round process (Aptitude → Task → Interview)<br/>
+🌐 Joined <b>Computer Society of India</b> (CSI) — COEP Tech Student Chapter as <b>Technical Coordinator</b>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Jan 2026</b></td>
+<td>
+🐧 Became a Member of <b>COEP's Free Software Users Group (CoFSUG)</b>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Mar 2026</b></td>
+<td>
+🥉 <b>2nd Runner-Up</b> at HERE Technologies' Geospatial Student Hackathon, Mumbai — solved a real-world spatial pattern-detection challenge under competitive, professional-grade conditions
+</td>
+</tr>
+<tr>
+<td align="center"><b>2026</b></td>
+<td>
+🎖️ Represented COEP at <b>Aavishkar</b>, the Maharashtra State Inter-University Research Convention, Parbhani
+</td>
+</tr>
+</table>
 
-### Languages
+<br/>
+
+## ⚙️ Tech Arsenal
 
 <div align="center">
+
+**Languages**
 
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js)
 
-</div>
+**App & Web Development**
 
-### App & Web
+![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
-<div align="center">
+**Databases & Version Control**
 
-![Android](https://skillicons.dev/icons?i=androidstudio) ![Java](https://skillicons.dev/icons?i=java) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+![Firebase](https://skillicons.dev/icons?i=firebase) ![Oracle](https://skillicons.dev/icons?i=oracle) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
-</div>
+**APIs & Integrations**
 
-### Databases & Tools
-
-<div align="center">
-
-![Firebase](https://skillicons.dev/icons?i=firebase) ![Oracle](https://skillicons.dev/icons?i=oracle) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-FF6B35?style=flat-square&logo=googlegemini&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F7931E?style=flat-square&logo=twilio&logoColor=white) ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-2b2d42?style=flat-square&logo=openstreetmap&logoColor=white)
 
 </div>
 
-### APIs & Platforms
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC93C,100:FF6B35&height=3&width=900" />
 
-![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+<br/>
 
-</div>
+## 🚀 Things I've Built
 
----
-
-## 🚀 Featured Projects
-
-### 🆘 ResQLink — AI-Powered Emergency Alert & SOS System
-> Android · Gemini AI · Twilio · OpenStreetMap · Firebase
-
-A real-time emergency response app that sends SOS alerts with live location, routes the nearest hospital, and gives responders live patient tracking — built to actually help in a crisis, not just demo well.
-
-- 📍 Real-time location sharing and nearest-hospital routing via OpenStreetMap
-- 🤖 Gemini AI integration for smarter response handling
-- ☎️ Twilio-powered alerting pipeline
-- 🏆 Shortlisted in **Top 10 at CodeClash Hackathon**
+<details open>
+<summary><b>🆘 ResQLink — AI-Powered Emergency Alert & SOS System</b></summary>
+<br/>
 
 `Android` `Gemini AI` `Twilio` `OpenStreetMap` `Firebase`
 
----
+An emergency response system built for moments where seconds matter — not just a hackathon demo, but something engineered to work under real pressure.
 
-### 🎓 MedhaAI — Personalized AI Learning Platform
-> React.js · Node.js · Gemini API · Firebase
+- 📍 Real-time location broadcasting with nearest-hospital routing via OpenStreetMap
+- 🩺 Live patient tracking pipeline for responders
+- 🤖 Gemini AI integrated for intelligent response handling
+- ☎️ Twilio-powered alerting so help can be triggered instantly
+- 🏆 **Shortlisted Top 10 at CodeClash Hackathon**
 
-An adaptive learning platform that reshapes content delivery around how each student actually learns, built during **Call2Code (IEEE Manipal University)**.
+</details>
 
-- 🧠 Gemini API-driven content personalization
-- ⚡ React.js frontend, Node.js backend
-- 🔥 Firebase for real-time data and auth
+<details>
+<summary><b>🎓 MedhaAI — Personalized AI Learning Platform</b></summary>
+<br/>
 
 `React.js` `Node.js` `Gemini API` `Firebase`
 
----
+Built at **Call2Code (IEEE Manipal University)** — an adaptive platform that reshapes how content is delivered based on individual learning styles, rather than a one-size-fits-all course feed.
 
-### 💳 BharatSync — Real-Time Transaction Reconciliation Engine
-> Node.js · Express.js · Oracle · Firebase
+- 🧠 Gemini API drives content personalization per student
+- ⚡ React.js frontend for a responsive learning experience
+- 🔥 Firebase backend for real-time sync and authentication
 
-A FinTech-domain engine built during a hackathon to reconcile transactions in real time — designed with the data integrity and consistency demands of financial systems in mind.
+</details>
+
+<details>
+<summary><b>💳 BharatSync — Real-Time Transaction Reconciliation Engine</b></summary>
+<br/>
 
 `Node.js` `Express.js` `Oracle` `Firebase`
 
----
+A FinTech-domain engine designed during a hackathon sprint to reconcile transactions in real time, built with the data consistency and integrity standards that financial systems demand.
 
-### 📚 Takshar — EdTech Platform *(In Progress)*
-> Android · Firebase
+- ⚙️ Express.js service layer over an Oracle data store
+- 🔄 Real-time reconciliation logic to catch mismatches as they happen
+- 🔥 Firebase for supplementary real-time state
 
-An Android-based education platform offering study resources, doubt resolution, and performance tracking for students.
+</details>
+
+<details>
+<summary><b>📚 Takshar — EdTech Platform <i>(In Progress)</i></b></summary>
+<br/>
 
 `Android` `Firebase`
 
----
+An Android-based education platform currently in development, built to give students one place for study resources, doubt resolution, and performance tracking.
+
+- 📖 Centralized study resource access
+- ❓ Doubt resolution workflow
+- 📈 Performance tracking dashboard
+
+</details>
+
+<br/>
 
 ## 🏆 Achievements & Recognitions
 
-| Result | Event | Notes |
-|:---:|---|---|
-| 🥉 2nd Runner-Up | HERE Mumbai Geospatial Student Hackathon 2026 | Solved a real-world geospatial pattern-detection challenge under a 7-minute pitch |
-| 🎖️ Participant | Aavishkar 2026 — Maharashtra State Research Convention, Parbhani | Represented COEP at the state-level inter-university research convention |
-| 🔝 Top 10 | CodeClash Hackathon | ResQLink shortlisted |
-| 🥉 3rd Place | Error Hunt Competition | — |
-| 🔝 Top 10 | Blind Coding Competition | — |
-| 🎯 Shortlisted | Quiz Competition | Dept. of Cloud Computing & Big Data |
+<table>
+<tr><th>Result</th><th>Event</th><th>Details</th></tr>
+<tr>
+<td align="center">🥉</td>
+<td><b>2nd Runner-Up</b><br/>HERE Mumbai Geospatial Student Hackathon 2026</td>
+<td>Built a technical solution to identify patterns in spatial datasets; recognized for creativity, innovation, and technical performance</td>
+</tr>
+<tr>
+<td align="center">🎖️</td>
+<td><b>Participant</b><br/>Aavishkar 2026</td>
+<td>Maharashtra State Inter-University Research Convention, Parbhani</td>
+</tr>
+<tr>
+<td align="center">🔝</td>
+<td><b>Top 10</b><br/>CodeClash Hackathon</td>
+<td>ResQLink shortlisted among top entries</td>
+</tr>
+<tr>
+<td align="center">🥉</td>
+<td><b>3rd Place</b><br/>Error Hunt Competition</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="center">🔝</td>
+<td><b>Top 10</b><br/>Blind Coding Competition</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="center">🎯</td>
+<td><b>Shortlisted</b><br/>Quiz Competition</td>
+<td>Dept. of Cloud Computing & Big Data</td>
+</tr>
+</table>
 
-**Also competed at:** TechSprint (Sanjivani University) · InnoHack (CSMSS) · Call2Code (IEEE Manipal University) · Smart India Hackathon 2025 (Disaster Management theme)
+**Also competed at:** TechSprint (Sanjivani University) · InnoHack (CSMSS) · Call2Code (IEEE Manipal University) · Smart India Hackathon 2025 — Disaster Management theme
 
----
+<br/>
 
-## 💼 Experience
+## 💼 Where I Work
 
-| Role | Organization | Period |
-|---|---|---|
-| 💻 Software Developer | Software Development Section (SDS), COEP Technological University | Nov 2025 – Present |
-| 🌐 Technical Coordinator | Computer Society of India (CSI), COEP Tech Student Chapter | Nov 2025 – Present |
-| 🐧 Member | COEP's Free Software Users Group (CoFSUG) | Jan 2026 – Present |
-| 📱 Android Development Intern | Ekatta Innovators LLP | Jun 2024 |
+<table>
+<tr><th>Role</th><th>Organization</th><th>Period</th></tr>
+<tr><td>💻 Software Developer</td><td>Software Development Section (SDS), COEP Technological University</td><td>Nov 2025 – Present</td></tr>
+<tr><td>🌐 Technical Coordinator</td><td>Computer Society of India (CSI), COEP Tech Student Chapter</td><td>Nov 2025 – Present</td></tr>
+<tr><td>🐧 Member</td><td>COEP's Free Software Users Group (CoFSUG)</td><td>Jan 2026 – Present</td></tr>
+<tr><td>📱 Android Development Intern</td><td>Ekatta Innovators LLP</td><td>Jun 2024</td></tr>
+</table>
 
----
+<br/>
 
 ## 🎓 Education
 
-| Degree | Institution | Score | Years |
-|---|---|---|---|
-| B.Tech, Computer Science & Engineering | COEP Technological University, Pune | CGPA 8.81/10 | 2025 – 2028 |
-| Diploma, Computer Engineering | Government Polytechnic, Chh. Sambhajinagar | 97.18% | 2022 – 2025 |
+<table>
+<tr><th>Degree</th><th>Institution</th><th>Score</th><th>Years</th></tr>
+<tr><td>B.Tech, Computer Science & Engineering</td><td>COEP Technological University, Pune</td><td><b>CGPA 8.81/10</b></td><td>2025 – 2028</td></tr>
+<tr><td>Diploma, Computer Engineering</td><td>Government Polytechnic, Chh. Sambhajinagar</td><td><b>97.18%</b></td><td>2022 – 2025</td></tr>
+</table>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:FFC93C&height=3&width=900" />
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suraj-Wakhure&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Wakhure&theme=tokyonight&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Suraj-Wakhure&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C42&icon_color=FFC93C&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Wakhure&theme=radical&hide_border=true&background=0D1117&ring=FF8C42&fire=FFC93C&currStreakLabel=FF8C42" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Wakhure&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C42&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="45%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-Wakhure&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF8C42&line=FFC93C&point=ffffff" alt="Contribution Graph" width="95%" />
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Wakhure&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5&langs_count=8" alt="Top Languages" width="45%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-Wakhure&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4FD1C5&line=4FD1C5&point=ffffff" alt="Contribution Graph" width="95%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-wakhure-864997262/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajwakhure@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suraj-Wakhure)
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Suraj-Wakhure.Suraj-Wakhure)
-
-</div>
-
----
+## 🤝 Let's Build Something
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-wakhure-864997262/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-F7931E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajwakhure@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-2b2d42?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suraj-Wakhure)
 
-*"Understanding > rushing to code."*
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Suraj-Wakhure&color=FF8C42&style=flat-square&label=Profile+Views)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFC93C,50:F7931E,100:FF6B35&height=120&section=footer&animation=twinkling" width="100%" />
+
+<i>"Understanding > rushing to code."</i>
 
 </div>
