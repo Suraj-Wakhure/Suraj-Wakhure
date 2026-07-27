@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ResQLink",
+    "repo": "Suraj-Wakhure/ResQLink",
+    "logo": "",
+    "description": "AI-Powered Emergency Alert & SOS System with real-time location routing",
+    "tags": ["Android", "Gemini AI", "Twilio", "Firebase"]
+  },
+  {
+    "name": "MedhaAI",
+    "repo": "Suraj-Wakhure/MedhaAI",
+    "logo": "",
+    "description": "Personalized AI Learning Platform driven by Gemini API and real-time sync",
+    "tags": ["React.js", "Node.js", "Gemini API", "Firebase"]
+  },
+  {
+    "name": "BharatSync",
+    "repo": "Suraj-Wakhure/BharatSync",
+    "logo": "",
+    "description": "Real-Time FinTech Transaction Reconciliation Engine over Oracle data store",
+    "tags": ["Node.js", "Express", "Oracle", "Firebase"]
+  },
+  {
+    "name": "Takshar",
+    "repo": "Suraj-Wakhure/Takshar",
+    "logo": "",
+    "description": "Centralized EdTech study resource access & doubt resolution platform",
+    "tags": ["Android", "Firebase", "Java"]
+  },
+  {
+    "name": "Inspiron 5.0",
+    "repo": "Suraj-Wakhure/Inspiron",
+    "logo": "",
+    "description": "Official flagship tech symposium portal for CSI COEP Tech Student Chapter",
+    "tags": ["React", "CSS3", "Vite"]
+  },
+  {
+    "name": "SDS Quiz App",
+    "repo": "Suraj-Wakhure/SDS-Quiz",
+    "logo": "",
+    "description": "High-concurrency quiz application built for Software Development Section, COEP",
+    "tags": ["Node.js", "Express", "MongoDB", "React"]
+  }
+]

@@ -1,0 +1,52 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050805"/>
+      <stop offset="50%" stop-color="#0a180a"/>
+      <stop offset="100%" stop-color="#050805"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39FF14"/>
+      <stop offset="50%" stop-color="#00FF66"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <style>
+      .bg { fill: url(#bgGrad); stroke: rgba(57,255,20,0.3); stroke-width: 2; }
+      .header-bar { fill: #0e160e; }
+      .name { font-family: 'Courier New', Courier, monospace; font-size: 46px; font-weight: bold; fill: url(#accentGrad); filter: url(#glow); }
+      .prompt { font-family: 'Courier New', Courier, monospace; font-size: 15px; fill: #4d9e4d; }
+      .line { font-family: 'Courier New', Courier, monospace; font-size: 17px; fill: #e0ffe0; }
+      .status { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #39FF14; font-weight: bold; }
+      .cursor { fill: #39FF14; animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect class="bg" x="2" y="2" width="996" height="276" rx="12"/>
+
+  <!-- Terminal header -->
+  <path class="header-bar" d="M 14 2 L 986 2 C 992.627 2 998 7.373 998 14 L 998 38 L 2 38 L 2 14 C 2 7.373 7.373 2 14 2 Z"/>
+  <line x1="2" y1="38" x2="998" y2="38" stroke="rgba(57,255,20,0.2)" stroke-width="1"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="20" r="6" fill="#27c93f"/>
+  <text class="prompt" x="500" y="25" text-anchor="middle">suraj@coep — bash — profile.sh --live</text>
+  
+  <!-- Online status indicator -->
+  <circle cx="860" cy="20" r="5" fill="#39FF14">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text class="status" x="874" y="24">ONLINE</text>
+
+  <!-- Body -->
+  <text class="prompt" x="45" y="85">suraj@coep:~$ figlet name</text>
+  <text class="name" x="45" y="142">SURAJ WAKHURE</text>
+
+  <text class="prompt" x="45" y="186">suraj@coep:~$ echo $STATUS &amp;&amp; cat bio.txt</text>
+  <text class="line" x="45" y="218">B.Tech Computer Science &amp; Engineering @ COEP Technological University (8.81 CGPA)</text>
+  <text class="line" x="45" y="246">Building full-stack platforms, AI-integrated systems &amp; hackathon products that ship<tspan class="cursor">_</tspan></text>
+</svg>
